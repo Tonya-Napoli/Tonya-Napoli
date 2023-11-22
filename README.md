@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning JavaScript, React, HTML & CSS
+- 🌱 I’m currently learning front end Web Developement using JavaScript, React, HTML & CSS
 - 💬 Ask me about ... dogs
 
