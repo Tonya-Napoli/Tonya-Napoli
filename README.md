@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </a>-->
   
 
-  <a href="https://www.linkedin.com/in/lunox/">
+  <a href="https://www.linkedin.com/in/tonya-napoli/">
   <img align="center" 
        alt="Linkdein" 
        width="22px" 
